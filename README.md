@@ -8,9 +8,9 @@ The goal of this project is to create a virtual reality commercial advertisement
 - Press oculus Right controller A button to move to next room.
 - Room 360-degree view.
 - Works on Meta Quest 2.
-- .apk file size: 34.2MB.
 
-I have uploaded the firsttest.apk file for installation on Oculus Quest2 to view the results. Alternatively, the results can be quickly viewed in the provided screenshots and video.
+
+Check out the provided screenshots and video to see the immersive results.
 
 ![image1](https://github.com/munazzaznoor/Villarooms_VRview/blob/main/screenshots/room1.png?raw=true)
 ![image2](https://github.com/munazzaznoor/Villarooms_VRview/blob/main/screenshots/room2.png?raw=true)
